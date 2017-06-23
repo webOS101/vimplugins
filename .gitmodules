@@ -49,3 +49,21 @@
 [submodule "bundle/vim-sleuth"]
 	path = bundle/vim-sleuth
 	url = https://github.com/tpope/vim-sleuth
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-jsx"]
+	path = bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "bundle/nerdtree-git-plugin"]
+	path = bundle/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/tern_for_vim"]
+	path = bundle/tern_for_vim
+	url = https://github.com/ternjs/tern_for_vim.git
+[submodule "bundle/syntastic-local-eslint.vim"]
+	path = bundle/syntastic-local-eslint.vim
+	url = https://github.com/mtscout6/syntastic-local-eslint.vim.git
